@@ -146,3 +146,30 @@ Django Peng - pjt73651@email.com
 
 项目链接: https://github.com/DjangoPeng/openai-quickstart
 
+
+---
+## HOMEWORK
+
+### 1. Gpt4v图片识别 
+code link: https://github.com/WilliamWu22/openai-quickstart/blob/main/openai_api/gpt-4v.ipynb
+
+git commit: https://github.com/WilliamWu22/openai-quickstart/commit/5f77dc4bf5cce511c081d982b53cb2638db9e28f
+
+### 2. Ai-translator添加对其他语言和翻译的支持
+code link: https://github.com/WilliamWu22/openai-quickstart/blob/main/openai-translator/ai_translator/main.py
+
+git commit:https://github.com/WilliamWu22/openai-quickstart/commit/632898adaeaa712e4a795ab31340f7a362bbd20a
+
+### 3. 扩展LangChain chains来支持生物、计算机、汉语文学
+code link: https://github.com/WilliamWu22/openai-quickstart/blob/main/langchain/jupyter/chains/router_chain.ipynb
+
+git commit: https://github.com/WilliamWu22/openai-quickstart/commit/ad0b14b45687d09cc47b47a4a9c9a015fd2277a1
+
+### 4. 保险销售机器人
+code link: https://github.com/WilliamWu22/openai-quickstart/blob/main/langchain/sales_chatbot/insurance_chat_bot/insurance_sales_chatbot.py 
+
+git commit: 
+
+https://github.com/WilliamWu22/openai-quickstart/commit/ece520c063fdab72b5164ef92f2e2da8eb123fc1
+
+https://github.com/WilliamWu22/openai-quickstart/commit/bf1c6d9f9b12c3286f9607126d4cb70f92739697
